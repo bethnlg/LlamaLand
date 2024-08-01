@@ -2,7 +2,7 @@
 
 ¡Bienvenido a **LlamaLand**! Esta innovadora solución emplea GitHub Codespaces para hospedar servidores de Minecraft, ofreciendo una experiencia de usuario mejorada con soporte para diversas versiones, incluyendo Forge, Mohist, Fabric, Vanilla y Paper. Disfruta de actualizaciones automáticas y una configuración sencilla gracias a nuestros scripts preconfigurados. ¡Esperamos que te encante nuestro proyecto!
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/BwXpRf8/image-removebg-preview-5.png" alt="image-removebg-preview-5" border="0"></a>
+<a href=""><img src="https://i.ibb.co/BwXpRf8/image-removebg-preview-5.png" alt="image-removebg-preview-5" border="0"></a>
 
 ## Miembros del Proyecto
 
