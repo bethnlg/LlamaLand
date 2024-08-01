@@ -8,10 +8,10 @@
 - **Carlos Antonio Alvarez Ponce**
 - **Beth Shantal Oneglio De Paz**
 
-1. **Versión del Servidor**:
+## **Versión del Servidor**:
 
 Forge 1.20.1
 
-2. **IP del Servidor**:
+## **IP del Servidor**:
 
 http://decision-lucas.gl.joinmc.link
