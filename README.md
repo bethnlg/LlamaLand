@@ -1,6 +1,9 @@
-# 🌟 LlamaLand: Hosting Gratuito de Servidores de Minecraft con GitHub Codespaces
+# 🌟 LlamaLand: 
+img src="https://i.ibb.co/wwYY7GN/image.png"
+<br>
+Hosting Gratuito de Servidores de Minecraft con GitHub Codespaces
 
-¡Bienvenido a **LlamaLand**! Esta solución innovadora utiliza GitHub Codespaces para alojar servidores de Minecraft, proporcionando una experiencia de usuario optimizada con compatibilidad para múltiples versiones como Forge, Mohist, Fabric, Vanilla y Paper. Disfruta de actualizaciones automáticas y una configuración fácil con scripts preconfigurados.
+¡Bienvenido a **LlamaLand**! Esta innovadora solución emplea GitHub Codespaces para hospedar servidores de Minecraft, ofreciendo una experiencia de usuario mejorada con soporte para diversas versiones, incluyendo Forge, Mohist, Fabric, Vanilla y Paper. Disfruta de actualizaciones automáticas y una configuración sencilla gracias a nuestros scripts preconfigurados. ¡Esperamos que te encante nuestro proyecto!
 
 ## Miembros del Proyecto
 
