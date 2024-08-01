@@ -4,8 +4,8 @@
 
 ## Miembros del Proyecto
 
-- **Juan Jesús Calisaya Sánchez**
 - **Carlos Antonio Alvarez Ponce**
+- **Juan Jesús Calisaya Sánchez**
 - **Beth Shantal Oneglio De Paz**
 
 ## **Versión del Servidor**
