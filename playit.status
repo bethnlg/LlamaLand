@@ -1,974 +1,946 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1722475968470 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1722476662699 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722475971535 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476665764 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722475974605 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476668821 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722475977675 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476671872 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722475980743 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476674943 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722475983823 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476678018 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722475986895 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476681076 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722475989993 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476684128 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722475993059 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476687180 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722475996123 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476690240 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722475999181 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476693299 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476002246 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476696360 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476005311 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476699411 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476008370 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476702465 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476011442 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476705518 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476014512 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476708586 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476017567 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476711642 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476020641 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476714702 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476023698 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476717779 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476026752 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476720836 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476029828 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476723900 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476032883 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476726968 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476035945 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476730042 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476039011 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476733093 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476042088 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476736149 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476045152 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476739219 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476048207 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476742278 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476051264 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476745342 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476054349 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476748394 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476057415 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476751458 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476060511 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476754507 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476063572 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476757563 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476066630 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476760627 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476069685 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476763698 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476072744 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476766753 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476075801 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476769812 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476078868 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476772865 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476081930 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476775916 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476084996 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476778973 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476088053 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476782023 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476091109 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476785081 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476094167 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476788135 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476097230 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476791195 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476100289 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476794246 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476103358 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476797304 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476106425 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476800359 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476109485 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476803416 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476112555 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476806476 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476115624 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476809528 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476118686 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476812578 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476121767 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476815638 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476124830 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476818704 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476127890 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476821769 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476130952 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476824819 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476134105 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476827876 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476137169 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476830945 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476140244 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476834018 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476143303 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476837086 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476146381 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476840137 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476149441 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476843189 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476152499 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476846239 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476155577 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476849294 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476158634 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476852354 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476161692 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476855418 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476164756 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476858468 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476167809 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476861536 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476170864 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476864586 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476173937 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476867644 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476177003 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476870692 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476180074 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476873748 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476183141 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476876800 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476186203 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476879852 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476189277 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476882921 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476192351 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476885983 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476195427 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476889122 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476198507 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476892180 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476201578 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476895231 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476204636 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476898296 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476207699 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476901368 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476210757 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476904417 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476213814 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476907468 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476216883 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476910524 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476219955 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476913585 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476223013 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476916639 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476226103 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476919699 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476229169 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476922755 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476232234 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476925810 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476235313 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476928863 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476238380 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476931911 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476241439 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476934973 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476244500 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476938048 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476247561 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476941114 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476250626 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476944175 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476253709 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476947233 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476256775 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476950292 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476259848 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476953362 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476262916 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476956414 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476265986 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476959475 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476269067 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476962528 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476272121 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476965592 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476275176 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476968658 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476278238 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476971712 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476281293 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476974766 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476284354 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476977823 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476287410 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476980884 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476290469 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476983945 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476293527 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476987009 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476296611 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476990073 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476299682 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476993133 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476302757 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476996188 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476305827 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722476999240 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476308888 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477002296 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476311947 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477005354 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476315007 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477008407 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476318066 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477011458 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476321145 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
+[2J8[0mplayit (v0.15.13): 1722477020571 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476324221 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477023637 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476327299 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477026707 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476330361 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477029760 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476333422 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477032817 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476336480 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477035878 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476339542 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
+[2J8[0mplayit (v0.15.13): 1722477044980 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476342663 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477048034 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476345728 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477051099 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476348787 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477054181 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476351859 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477057241 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476354917 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477060295 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476357995 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477063345 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476361062 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477066395 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476364120 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477069461 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476367175 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477072535 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476370244 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477075608 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476373299 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477078675 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476376369 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477081731 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476379440 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477084804 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476382498 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477087879 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476385563 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477090934 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476388646 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477093996 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476391721 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477097052 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476394777 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477100116 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476397838 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477103173 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476400912 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477106230 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476403986 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477109285 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476407050 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477112342 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476410108 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477115394 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476413175 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477118448 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476416240 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477121512 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476419306 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477124580 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476422369 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477127641 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476425431 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477130700 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476428514 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477133768 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476431593 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477136833 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476434668 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477139890 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476437726 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477142941 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476440790 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477146006 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476443848 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477149072 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476446909 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477152127 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476449971 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477155181 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476453043 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477158257 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476456113 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477161317 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476459170 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477164416 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476462232 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477167484 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476465293 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477170541 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476468378 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477173604 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476471438 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477176679 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476474503 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477179730 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476477569 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477182783 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476480662 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477185838 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476483724 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477188920 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476486794 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477191986 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476489862 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477195048 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476492934 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477198114 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476496000 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477201210 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476499063 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477204279 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476502142 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477207345 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476505213 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477210406 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476508283 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477213466 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476511360 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477216530 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476514418 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
+[2J8[0mplayit (v0.15.13): 1722477225659 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476517511 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477228740 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476520586 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
+[2J8[0mplayit (v0.15.13): 1722477237854 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476523640 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477240931 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476526724 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477243994 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476529781 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477247058 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476532849 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477250114 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476535908 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477253164 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476538967 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476542041 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476545116 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476548175 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476551238 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476554299 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476557358 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476560421 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-decision-lucas.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722476563486 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722477256214 tunnel running, 1 tunnels registered
 
 
 TUNNELS
