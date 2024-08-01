@@ -17,20 +17,6 @@
 # us		      Estados unidos (Ohio)
 # us-cal-1	      Estados unidos (California)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 import requests,os,base64,glob,time
 if os.path.exists("servidor.py"):
 	os.remove("servidor.py")
