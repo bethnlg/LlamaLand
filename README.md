@@ -1,5 +1,5 @@
 # 🌟 LlamaLand: 
-img src="https://i.ibb.co/wwYY7GN/image.png"
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/wwYY7GN/image.png" alt="image" border="0"></a>
 <br>
 Hosting Gratuito de Servidores de Minecraft con GitHub Codespaces
 
