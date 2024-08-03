@@ -6,7 +6,7 @@
   },
   "tunnels": [
     {
-      "active": true,
+      "active": false,
       "alloc": {
         "data": {
           "assigned_domain": "decision-lucas.gl.joinmc.link",
