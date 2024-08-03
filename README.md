@@ -1,4 +1,4 @@
-# 🌟 LlamaLand: Free Minecraft Server Hosting with GitHub Codespaces
+# LlamaLand: Free Minecraft Server Hosting with GitHub Codespaces
 
 Welcome to **LlamaLand**! This innovative solution uses GitHub Codespaces to host Minecraft servers, offering an enhanced user experience with support for multiple versions, including Forge, Mohist, Fabric, Vanilla and Paper. Enjoy automatic updates and easy configuration thanks to our pre-configured scripts. We hope your love our project!
 
