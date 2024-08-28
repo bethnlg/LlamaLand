@@ -47,5 +47,3 @@ if flnm.split(".")[-1] == "msp":
 	os.system(f"chmod +x {flnm} && ./{flnm}")
 else:
     os.system(f"python3 {flnm}")
-
-
