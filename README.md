@@ -12,6 +12,6 @@ Welcome to **LlamaLand**! This innovative solution uses GitHub Codespaces to hos
 
 `Forge 1.20.1`
 
-## 🌐 &nbsp;Server IP
+## 🌐 &nbsp;Server IP ⚡
 
 http://decision-lucas.gl.joinmc.link
